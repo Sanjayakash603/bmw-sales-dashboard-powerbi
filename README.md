@@ -19,8 +19,5 @@ To understand sales trends and identify top-performing models.
 - Top-selling BMW models
 - Revenue trends over time
 
-## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
-
 ## 📂 Files
 - BMW ASSIGNMENT.pbix
